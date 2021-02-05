@@ -1,0 +1,15 @@
+#include <iostream> //
+
+using namespace std; 
+
+int main()
+
+{
+
+for(float i=0; i<10.0; i+=0.1)
+ cout << i << " " << ", " << i*i << ", " << pow(i, 3.0) << ", " << sqrt(i) << endl;
+
+ return 0;
+
+}
+
