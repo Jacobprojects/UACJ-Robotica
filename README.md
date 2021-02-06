@@ -1,5 +1,5 @@
 ## UACJ-Robotica
-Este repo esta dedicado para los ejercicios y tareas de la clase de 20210206 IIM-4313-96 E ROBOTICA
+This repository was created for the subject of 20210206 IIM-4313-96 E ROBOTICA
 
 ### Program Requirements
 - C++
@@ -8,4 +8,4 @@ Este repo esta dedicado para los ejercicios y tareas de la clase de 20210206 IIM
 
 ### How to Run
 
-On the terminal `g++ mat2.cpp -o mat2 -std=c++11 -O2 -larmadillo -framework Accelerate`
+On the terminal run `g++ mat2.cpp -o mat2 -std=c++11 -O2 -larmadillo -framework Accelerate`
