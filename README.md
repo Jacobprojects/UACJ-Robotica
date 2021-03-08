@@ -1,4 +1,4 @@
-## UACJ-Robotica
+# UACJ-Robotica
 This repository was created for the subject of 20210206 IIM-4313-96 E ROBOTICA
 
 ### Dependencies
@@ -8,9 +8,9 @@ This repository was created for the subject of 20210206 IIM-4313-96 E ROBOTICA
 
 ### How to Run
 - Clone this repo
-```
+```bash
 https://github.com/Jacobprojects/UACJ-Robotica.git
+``` 
 ```
-- Create the compiler 
-- 
-
+cd UACJ-Robotica
+``` 
