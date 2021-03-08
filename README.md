@@ -10,7 +10,8 @@ This repository was created for the subject of 20210206 IIM-4313-96 E ROBOTICA
 
 
 ### How to Run
-- Clone this repo via GitHub
+- Download the folder 'Tarea 1'
+- cd 
 - Create the compiler 
 ```
 ./simple
