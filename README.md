@@ -7,10 +7,21 @@ This repository was created for the subject of 20210206 IIM-4313-96 E ROBOTICA
 - Linux, Ubuntu, Mac OSX
 
 ### How to Run
-- Clone this repo
+Clone this repo:
 ```bash
 https://github.com/Jacobprojects/UACJ-Robotica.git
 ``` 
+To build the project:
 ```
-cd UACJ-Robotica
+$ cd UACJ-Robotica/tarea1
+$ sudo make
 ``` 
+When the project has compiled, open new terminal:
+```
+$ ./ simple localhost
+``` 
+Open another window terminal and then:
+```
+$ player pstlab.cfg
+```
+
