@@ -18,10 +18,9 @@ $ sudo make
 ``` 
 When the project has compiled, open new terminal:
 ```
-$ ./ simple localhost
-``` 
-Open another window terminal and then:
-```
 $ player pstlab.cfg
 ```
-
+Open another window terminal and then:
+```
+$ ./ simple localhost
+``` 
