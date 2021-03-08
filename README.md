@@ -6,6 +6,13 @@ This repository was created for the subject of 20210206 IIM-4313-96 E ROBOTICA
 - Stage 4.3.0
 - Linux, Ubuntu, Mac OSX
 
+# Dependencies
+
+
 ### How to Run
-Clone this repo via GitHub 
+- Clone this repo via GitHub
+- Create the compiler 
+```
+./simple
+```
 
