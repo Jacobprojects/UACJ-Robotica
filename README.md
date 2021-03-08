@@ -4,6 +4,10 @@ This repository was created for the subject of 20210206 IIM-4313-96 E ROBOTICA
 ### Dependencies
 - Player v.3.1.1-dev
 - Stage 4.3.0
+- OpenCV (`libopencv-dev`)
+`sudo apt-get install -y libopencv-dev`
+- OpenCV highgui (`libopencv-highgui-dev`)
+`sudo apt-get install -y libopencv-highgui-dev`
 - Linux, Ubuntu, Mac OSX
 
 ### How to Run
@@ -15,12 +19,15 @@ To build the project:
 ```
 $ cd UACJ-Robotica/tarea1
 $ sudo make
-``` 
-When the project has compiled, open new terminal:
-```
 $ player pstlab.cfg
 ```
-Open another window terminal and then:
+Open another terminal and then:
 ```
 $ ./ simple localhost
 ``` 
+### Notes
+This project is based on: 
+```
+https://github.com/sunsided/bht-ams-playerstage
+```
+And the examples seen in the class
